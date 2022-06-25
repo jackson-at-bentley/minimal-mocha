@@ -1,7 +1,7 @@
 {
   "name": "minimal-mocha",
   "version": "1.0.0",
-  "description": "",
+  "description": "Code coverage with nyc, mocha, chai, ts-node",
   "main": "build/src/index.js",
   "scripts": {
     "test": "tsc && nyc mocha"
